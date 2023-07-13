@@ -1,4 +1,5 @@
 # Udemy-Courses-Dataset-Analysis
+In analyzing this dataset, I aimed to show as much of my Python, data analytics, and statistics knowledge as I could. I commented everything I did in this jupyter notebook itself. That's why I planned to post only sample pictures here. 
 Bu datasetni tahlil qilishda o'zimning python, data analitika va statistika bo'yicha to'plagan biliimlarimning qo'ldan kelgancha bir qismini bo'lsa ham ko'rsatishni oldimga maqsad qildim. Ushbu jupyter notebookning o'zida nima qilgan bo'lsam hammasini sharhlab bordim. Shuning uchun bu yerga faqat namuna rasmlarni joylashni reja qildim.
 ![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/065db95a-c66d-42b6-a939-eca2987c38de)
 ![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/29f62ab3-20a7-4a14-955b-6c14e8e13c6f)
