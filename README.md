@@ -11,6 +11,5 @@ Bu datasetni tahlil qilishda o'zimning python, data analitika va statistika bo'y
 ![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/1b4af58c-1fee-4462-aeaf-b8ac22af3d47)
 ![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/e9b3d26d-f981-407e-b3b4-0b3fd780df23)
 ![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/25b5cb6b-4323-4baf-b2ef-8a900a8e46f7)
-![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/f4d5b860-b319-4af2-96b7-3096a9054401)
 ![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/eb1df67c-7b60-4854-ac4e-23c54898a876)
 ![image](https://github.com/HumoyunShaymamatov/Udemy-Courses-Dataset-Analysis/assets/88376625/a78a8333-33b4-4f77-8e7b-5035ecd78c3a)
